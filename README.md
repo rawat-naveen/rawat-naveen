@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen Rawat</h1>
+<h3 align= "center">Research Analyst at Quantish Openion</h3>
 <h3 align="center">Python( Numpy, Pandas, Matplotlib) | MySQL | Django | Flask</h3>
 
 - 🌱 I’m currently learning **Data Analysis, Python, MySQL, Power BI**
